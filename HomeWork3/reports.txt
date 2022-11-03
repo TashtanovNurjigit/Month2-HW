@@ -1,6 +1,0 @@
-2022-10-14 https://habr.com/ru/company/vk/blog/692062/ 200
-2022-10-14 https://jsonplaceholder.typicode.com/posts/1/ 200
-2022-10-14 https://habr.com/ru/company/vk/blog/692062/ 200
-2022-10-14 https://jsonplaceholder.typicode.com/posts/1/ 200
-2022-10-14 https://habr.com/ru/company/vk/blog/692062/ 200
-2022-10-14 https://jsonplaceholder.typicode.com/posts/1/ 200
